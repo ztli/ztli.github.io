@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: LZT的博客
-subtitle: Lztghost
-description: "This is lzt's blog"
-keywords: ""
-author: LZT
+title: ztli的博客
+subtitle: ztli
+description: HTML
+keywords: "华南理工大学广州学院 | 软件工程 | 前端"
+author: ztli
 language: zh-CN
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://lztghost.com
+url: https://ztli.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -141,6 +141,6 @@ live2d:
 
 baidu_url_submit:
   count: 100
-  host: https://github.com/ztli/ztli.github.io
+  host: ztli.com
   token: 
   path: baidu_urls.txt

@@ -1,9 +1,9 @@
 [
     {
-        "name": "知乎",
-        "url": "https://www.zhihu.com/",
-        "title": "访问主页",
-        "introduction": "知乎专栏",
-        "avatar": "/medias/avatars/myzhihu.png"
+        "name": "百度",
+        "url": "https://baidu.com",
+        "title": "访问百度",
+        "introduction": "百度！",
+        "avatar": "/medias/avatars/baidu.jpg"
     }
 ]
