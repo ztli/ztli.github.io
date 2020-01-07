@@ -1,16 +1,14 @@
 ---
-title: Merry Chrimas
-date: 2019-12-25 12:32:09
+title: PC端解决方案
+date: 2019-12-07 13:32:09
 top: false
 cover: false
 password:
 toc: true
 mathjax: false
-summary: Merry Chrimas
+summary: PC端各方面问题解决方案
 tags:
 - 随笔
 categories:
 - 随笔
 ---
-Merry Chrimas
-

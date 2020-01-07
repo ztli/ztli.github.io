@@ -8,7 +8,107 @@
       <link href="/2019/12/25/merry-chrimas/"/>
       <url>/2019/12/25/merry-chrimas/</url>
       
+        <content type="html"><![CDATA[<p>Merry Chrimas</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 随笔 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 随笔 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>CSS + JS 特效</title>
+      <link href="/2019/12/07/css-js-te-xiao/"/>
+      <url>/2019/12/07/css-js-te-xiao/</url>
+      
+        <content type="html"><![CDATA[<p>js特效</p><pre class="line-numbers language-javascript"><code class="language-javascript"><span class="token operator">&lt;</span>script color<span class="token operator">=</span>“<span class="token number">0</span><span class="token punctuation">,</span><span class="token number">0</span><span class="token punctuation">,</span><span class="token number">0</span>” opacity<span class="token operator">=</span>“<span class="token number">0.5</span>” count<span class="token operator">=</span>“<span class="token number">99</span>” src<span class="token operator">=</span>“https<span class="token punctuation">:</span><span class="token operator">/</span><span class="token operator">/</span>cdn<span class="token punctuation">.</span>bootcss<span class="token punctuation">.</span>com<span class="token operator">/</span>canvas<span class="token operator">-</span>nest<span class="token punctuation">.</span>js<span class="token operator">/</span><span class="token number">1.0</span><span class="token punctuation">.</span><span class="token number">1</span><span class="token operator">/</span>canvas<span class="token operator">-</span>nest<span class="token punctuation">.</span>js” type<span class="token operator">=</span>“text<span class="token operator">/</span>javascript” charset<span class="token operator">=</span>“utf<span class="token number">-8</span>”<span class="token operator">></span><span class="token operator">&lt;</span><span class="token operator">/</span>script<span class="token operator">></span>  <span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p><a href="https://www.cnblogs.com/coco1s/p/7197662.html" target="_blank" rel="noopener">https://www.cnblogs.com/coco1s/p/7197662.html</a>  纯 CSS 实现波浪效果！</p><p><a href="https://www.infoq.cn/article/0zOdhwKD1HqxAoFLoCY1" target="_blank" rel="noopener">https://www.infoq.cn/article/0zOdhwKD1HqxAoFLoCY1</a>  十个最流行的前端 CSS 库</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 随笔 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 随笔 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>PC端解决方案</title>
+      <link href="/2019/12/07/pc-duan-jie-jue-fang-an/"/>
+      <url>/2019/12/07/pc-duan-jie-jue-fang-an/</url>
+      
         <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 随笔 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 随笔 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>前端零碎小知识</title>
+      <link href="/2019/12/07/qian-duan-ling-sui-xiao-zhi-shi/"/>
+      <url>/2019/12/07/qian-duan-ling-sui-xiao-zhi-shi/</url>
+      
+        <content type="html"><![CDATA[<p>echarts <a href="https://www.echartsjs.com/zh/index.html" target="_blank" rel="noopener">https://www.echartsjs.com/zh/index.html</a><br>试图尺寸变化用：echart.resize()<br>数据更新重绘用：echart.setOption(option,true)</p><p>window.performance() 浏览器查看内存<br>process.memoryUsage()  node查看内存 </p><h1 id="VUE"><a href="#VUE" class="headerlink" title="VUE"></a>VUE</h1><p><a href="https://www.bilibili.com/video/av50680998/?p=30vue" target="_blank" rel="noopener">https://www.bilibili.com/video/av50680998/?p=30vue</a>  vue学习<br>vue 2.0 构造式编程 会给你一个类，你自己去new，全局可能只有一个对象，我们方便构造他；<br>vue 3.0 函数式编程 lodash，underscore，react，vue 最适合javascript，方便tree-sharking（webpack的一个功能：框架a有30个方法，但是我们只用了一个，那么只拿出来一个，减少代码体积，前提：函数式编程）<br>组件传值 $emit、props；.sync 、 .v-model； $listener跟$attrs；provide和inject；<br>IntersectionObserver 实现懒加载</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 随笔 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 随笔 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>移动端解决方案</title>
+      <link href="/2019/01/07/yi-dong-duan-jie-jue-fang-an/"/>
+      <url>/2019/01/07/yi-dong-duan-jie-jue-fang-an/</url>
+      
+        <content type="html"><![CDATA[<h1 id="移动端解决方案"><a href="#移动端解决方案" class="headerlink" title="移动端解决方案"></a>移动端解决方案</h1><p>一、UIforETW 解决UI卡顿<br>二、移动端300ms click点击延迟  引入fastclick库（npm install fastclick –save）<br>6-5 reset.css 重置页面样式表（不同手机页面样式不统一）<br>border.css 1像素边框解决方案<br>三、 图片按比例加载</p><pre class="line-numbers language-css"><code class="language-css"><span class="token selector"><span class="token class">.wrapper</span></span><span class="token punctuation">{</span>    <span class="token property">overflow</span><span class="token punctuation">:</span> hidden    <span class="token property">width</span><span class="token punctuation">:</span> <span class="token number">100%</span>    <span class="token property">height</span><span class="token punctuation">:</span> <span class="token number">0</span>    <span class="token property">padding-bottom</span><span class="token punctuation">:</span> <span class="token number">30%</span><span class="token punctuation">}</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>]]></content>
       
       
       <categories>
