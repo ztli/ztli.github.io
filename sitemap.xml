@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://ztli.com/2019/12/25/merry-chrimas/</loc>
+    
+    <lastmod>2020-01-12T06:51:10.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://ztli.com/2019/12/25/deng-feng-ye-deng-ni/</loc>
     
     <lastmod>2020-01-10T09:34:21.000Z</lastmod>
@@ -37,13 +44,6 @@
   </url>
   
   <url>
-    <loc>https://ztli.com/2019/12/25/merry-chrimas/</loc>
-    
-    <lastmod>2020-01-07T06:55:25.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://ztli.com/404.html</loc>
     
     <lastmod>2020-01-03T09:07:10.000Z</lastmod>
@@ -58,13 +58,6 @@
   </url>
   
   <url>
-    <loc>https://ztli.com/archives/index.html</loc>
-    
-    <lastmod>2020-01-03T09:07:10.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://ztli.com/categories/index.html</loc>
     
     <lastmod>2020-01-03T09:07:10.000Z</lastmod>
@@ -72,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://ztli.com/friends/index.html</loc>
+    <loc>https://ztli.com/archives/index.html</loc>
     
     <lastmod>2020-01-03T09:07:10.000Z</lastmod>
     
@@ -80,6 +73,13 @@
   
   <url>
     <loc>https://ztli.com/contact/index.html</loc>
+    
+    <lastmod>2020-01-03T09:07:10.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://ztli.com/friends/index.html</loc>
     
     <lastmod>2020-01-03T09:07:10.000Z</lastmod>
     
