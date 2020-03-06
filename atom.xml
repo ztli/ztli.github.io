@@ -69,33 +69,6 @@
   </entry>
   
   <entry>
-    <title>CSS + JS 特效</title>
-    <link href="https://ztli.com/2019/12/07/css-js-te-xiao/"/>
-    <id>https://ztli.com/2019/12/07/css-js-te-xiao/</id>
-    <published>2019-12-07T05:32:09.000Z</published>
-    <updated>2020-01-07T07:04:51.000Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;js特效&lt;/p&gt;
-&lt;pre class=&quot;line-numbers language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;script
-        
-      
-    
-    </summary>
-    
-      <category term="随笔" scheme="https://ztli.com/categories/%E9%9A%8F%E7%AC%94/"/>
-    
-    
-      <category term="随笔" scheme="https://ztli.com/tags/%E9%9A%8F%E7%AC%94/"/>
-    
-  </entry>
-  
-  <entry>
     <title>PC端解决方案</title>
     <link href="https://ztli.com/2019/12/07/pc-duan-jie-jue-fang-an/"/>
     <id>https://ztli.com/2019/12/07/pc-duan-jie-jue-fang-an/</id>
@@ -127,6 +100,33 @@
         
         
           &lt;h1 id=&quot;兼容&quot;&gt;&lt;a href=&quot;#兼容&quot; class=&quot;headerlink&quot; title=&quot;兼容&quot;&gt;&lt;/a&gt;兼容&lt;/h1&gt;&lt;p&gt;npm install –save @babel/polyfill    import ‘babel-polyfill’ //
+        
+      
+    
+    </summary>
+    
+      <category term="随笔" scheme="https://ztli.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="随笔" scheme="https://ztli.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CSS + JS 特效</title>
+    <link href="https://ztli.com/2019/12/07/css-js-te-xiao/"/>
+    <id>https://ztli.com/2019/12/07/css-js-te-xiao/</id>
+    <published>2019-12-07T05:32:09.000Z</published>
+    <updated>2020-01-07T07:04:51.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;js特效&lt;/p&gt;
+&lt;pre class=&quot;line-numbers language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;script
         
       
     
