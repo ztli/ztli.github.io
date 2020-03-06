@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://ztli.com/"/>
-  <updated>2020-01-07T06:55:25.000Z</updated>
+  <updated>2020-01-12T06:51:10.000Z</updated>
   <id>https://ztli.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://ztli.com/2019/12/25/merry-chrimas/"/>
     <id>https://ztli.com/2019/12/25/merry-chrimas/</id>
     <published>2019-12-25T04:32:09.000Z</published>
-    <updated>2020-01-07T06:55:25.000Z</updated>
+    <updated>2020-01-12T06:51:10.000Z</updated>
     
     <summary type="html">
     
@@ -29,7 +29,77 @@
       
         
         
-          &lt;p&gt;Merry
+          &lt;p&gt;Merry Chrimas&lt;br&gt;videojs.getPlayers(“video-player”).html5player.tech_.setPlaybackRate(1.5) 
+        
+      
+    
+    </summary>
+    
+      <category term="随笔" scheme="https://ztli.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="随笔" scheme="https://ztli.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>等风来，不如追风去</title>
+    <link href="https://ztli.com/2019/12/25/deng-feng-ye-deng-ni/"/>
+    <id>https://ztli.com/2019/12/25/deng-feng-ye-deng-ni/</id>
+    <published>2019-12-25T04:32:09.000Z</published>
+    <updated>2020-01-10T09:34:21.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;“你为什么那么喜欢落日？”“因为它像极了我喜欢你的心……”“嗯？”“就算会一点一点沉下去，明天照样会升起。”&lt;br&gt;                                                                              
+        
+      
+    
+    </summary>
+    
+      <category term="随笔" scheme="https://ztli.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="随笔" scheme="https://ztli.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>PC端解决方案</title>
+    <link href="https://ztli.com/2019/12/07/pc-duan-jie-jue-fang-an/"/>
+    <id>https://ztli.com/2019/12/07/pc-duan-jie-jue-fang-an/</id>
+    <published>2019-12-07T05:32:09.000Z</published>
+    <updated>2020-01-07T06:58:20.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="随笔" scheme="https://ztli.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="随笔" scheme="https://ztli.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>前端零碎小知识</title>
+    <link href="https://ztli.com/2019/12/07/qian-duan-ling-sui-xiao-zhi-shi/"/>
+    <id>https://ztli.com/2019/12/07/qian-duan-ling-sui-xiao-zhi-shi/</id>
+    <published>2019-12-07T05:32:09.000Z</published>
+    <updated>2020-01-12T08:24:34.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;兼容&quot;&gt;&lt;a href=&quot;#兼容&quot; class=&quot;headerlink&quot; title=&quot;兼容&quot;&gt;&lt;/a&gt;兼容&lt;/h1&gt;&lt;p&gt;npm install –save @babel/polyfill    import ‘babel-polyfill’ //
         
       
     
@@ -70,56 +140,11 @@
   </entry>
   
   <entry>
-    <title>PC端解决方案</title>
-    <link href="https://ztli.com/2019/12/07/pc-duan-jie-jue-fang-an/"/>
-    <id>https://ztli.com/2019/12/07/pc-duan-jie-jue-fang-an/</id>
-    <published>2019-12-07T05:32:09.000Z</published>
-    <updated>2020-01-07T06:58:20.000Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-      <category term="随笔" scheme="https://ztli.com/categories/%E9%9A%8F%E7%AC%94/"/>
-    
-    
-      <category term="随笔" scheme="https://ztli.com/tags/%E9%9A%8F%E7%AC%94/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>前端零碎小知识</title>
-    <link href="https://ztli.com/2019/12/07/qian-duan-ling-sui-xiao-zhi-shi/"/>
-    <id>https://ztli.com/2019/12/07/qian-duan-ling-sui-xiao-zhi-shi/</id>
-    <published>2019-12-07T05:32:09.000Z</published>
-    <updated>2020-01-08T08:34:20.000Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;文本内容溢出加省略号&lt;/p&gt;
-&lt;pre class=&quot;line-numbers language-css&quot;&gt;&lt;code class=&quot;language-css&quot;&gt;&lt;span class=&quot;token property&quot;&gt;overflow&lt;/span&gt;&lt;span
-        
-      
-    
-    </summary>
-    
-      <category term="随笔" scheme="https://ztli.com/categories/%E9%9A%8F%E7%AC%94/"/>
-    
-    
-      <category term="随笔" scheme="https://ztli.com/tags/%E9%9A%8F%E7%AC%94/"/>
-    
-  </entry>
-  
-  <entry>
     <title>移动端解决方案</title>
     <link href="https://ztli.com/2019/01/07/yi-dong-duan-jie-jue-fang-an/"/>
     <id>https://ztli.com/2019/01/07/yi-dong-duan-jie-jue-fang-an/</id>
     <published>2019-01-07T04:32:09.000Z</published>
-    <updated>2020-01-07T08:08:59.000Z</updated>
+    <updated>2020-01-09T09:57:36.000Z</updated>
     
     <summary type="html">
     

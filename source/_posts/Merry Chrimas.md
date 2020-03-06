@@ -13,4 +13,5 @@ categories:
 - 随笔
 ---
 Merry Chrimas
+videojs.getPlayers("video-player").html5player.tech_.setPlaybackRate(1.5)  谷歌浏览器百度云网盘倍速
 
