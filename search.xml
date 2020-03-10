@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>Vue.js</title>
+      <link href="/2020/03/07/vue/"/>
+      <url>/2020/03/07/vue/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Vue"><a href="#Vue" class="headerlink" title="Vue"></a>Vue</h1><pre class="line-numbers language-js"><code class="language-js"><span class="token comment" spellcheck="true">//模版</span><span class="token operator">&lt;</span>template<span class="token operator">></span><span class="token operator">&lt;</span><span class="token operator">/</span>template<span class="token operator">></span><span class="token operator">&lt;</span>script<span class="token operator">></span><span class="token keyword">export</span> <span class="token keyword">default</span> <span class="token punctuation">{</span>    name<span class="token punctuation">:</span> <span class="token string">''</span><span class="token punctuation">,</span>    mixins<span class="token punctuation">:</span> <span class="token punctuation">[</span><span class="token punctuation">]</span><span class="token punctuation">,</span>    components<span class="token punctuation">:</span> <span class="token punctuation">{</span><span class="token punctuation">}</span><span class="token punctuation">,</span>    props<span class="token punctuation">:</span> <span class="token punctuation">{</span><span class="token punctuation">}</span><span class="token punctuation">,</span>    data <span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>        <span class="token keyword">return</span> <span class="token punctuation">{</span><span class="token punctuation">}</span>    <span class="token punctuation">}</span><span class="token punctuation">,</span>    computed<span class="token punctuation">:</span> <span class="token punctuation">{</span><span class="token punctuation">}</span><span class="token punctuation">,</span>    watch<span class="token punctuation">:</span> <span class="token punctuation">{</span><span class="token punctuation">}</span><span class="token punctuation">,</span>    created <span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span><span class="token punctuation">}</span><span class="token punctuation">,</span>    mounted <span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span><span class="token punctuation">}</span><span class="token punctuation">,</span>    destroyed <span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span><span class="token punctuation">}</span><span class="token punctuation">,</span>    methods<span class="token punctuation">:</span> <span class="token punctuation">{</span><span class="token punctuation">}</span><span class="token punctuation">}</span><span class="token operator">&lt;</span><span class="token operator">/</span>script<span class="token operator">></span><span class="token comment" spellcheck="true">//样式</span><span class="token operator">&lt;</span>style scoped<span class="token operator">></span><span class="token operator">&lt;</span><span class="token operator">/</span>style<span class="token operator">></span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>]]></content>
+      
+      
+      <categories>
+          
+          <category> 随笔 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 随笔 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Merry Chrimas</title>
       <link href="/2019/12/25/merry-chrimas/"/>
       <url>/2019/12/25/merry-chrimas/</url>
@@ -34,6 +59,31 @@
       <url>/2019/12/25/deng-feng-ye-deng-ni/</url>
       
         <content type="html"><![CDATA[<p>“你为什么那么喜欢落日？”“因为它像极了我喜欢你的心……”“嗯？”“就算会一点一点沉下去，明天照样会升起。”<br>                                                                                                                                                    ——《德卡先生的信箱》</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 随笔 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 随笔 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>CSS + JS 特效</title>
+      <link href="/2019/12/07/css-js-te-xiao/"/>
+      <url>/2019/12/07/css-js-te-xiao/</url>
+      
+        <content type="html"><![CDATA[<p>js特效</p><pre class="line-numbers language-javascript"><code class="language-javascript"><span class="token operator">&lt;</span>script color<span class="token operator">=</span>“<span class="token number">0</span><span class="token punctuation">,</span><span class="token number">0</span><span class="token punctuation">,</span><span class="token number">0</span>” opacity<span class="token operator">=</span>“<span class="token number">0.5</span>” count<span class="token operator">=</span>“<span class="token number">99</span>” src<span class="token operator">=</span>“https<span class="token punctuation">:</span><span class="token operator">/</span><span class="token operator">/</span>cdn<span class="token punctuation">.</span>bootcss<span class="token punctuation">.</span>com<span class="token operator">/</span>canvas<span class="token operator">-</span>nest<span class="token punctuation">.</span>js<span class="token operator">/</span><span class="token number">1.0</span><span class="token punctuation">.</span><span class="token number">1</span><span class="token operator">/</span>canvas<span class="token operator">-</span>nest<span class="token punctuation">.</span>js” type<span class="token operator">=</span>“text<span class="token operator">/</span>javascript” charset<span class="token operator">=</span>“utf<span class="token number">-8</span>”<span class="token operator">></span><span class="token operator">&lt;</span><span class="token operator">/</span>script<span class="token operator">></span>  <span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p><a href="https://www.cnblogs.com/coco1s/p/7197662.html" target="_blank" rel="noopener">https://www.cnblogs.com/coco1s/p/7197662.html</a>  纯 CSS 实现波浪效果！</p><p><a href="https://www.infoq.cn/article/0zOdhwKD1HqxAoFLoCY1" target="_blank" rel="noopener">https://www.infoq.cn/article/0zOdhwKD1HqxAoFLoCY1</a>  十个最流行的前端 CSS 库</p>]]></content>
       
       
       <categories>
@@ -104,36 +154,11 @@
     
     
     <entry>
-      <title>CSS + JS 特效</title>
-      <link href="/2019/12/07/css-js-te-xiao/"/>
-      <url>/2019/12/07/css-js-te-xiao/</url>
-      
-        <content type="html"><![CDATA[<p>js特效</p><pre class="line-numbers language-javascript"><code class="language-javascript"><span class="token operator">&lt;</span>script color<span class="token operator">=</span>“<span class="token number">0</span><span class="token punctuation">,</span><span class="token number">0</span><span class="token punctuation">,</span><span class="token number">0</span>” opacity<span class="token operator">=</span>“<span class="token number">0.5</span>” count<span class="token operator">=</span>“<span class="token number">99</span>” src<span class="token operator">=</span>“https<span class="token punctuation">:</span><span class="token operator">/</span><span class="token operator">/</span>cdn<span class="token punctuation">.</span>bootcss<span class="token punctuation">.</span>com<span class="token operator">/</span>canvas<span class="token operator">-</span>nest<span class="token punctuation">.</span>js<span class="token operator">/</span><span class="token number">1.0</span><span class="token punctuation">.</span><span class="token number">1</span><span class="token operator">/</span>canvas<span class="token operator">-</span>nest<span class="token punctuation">.</span>js” type<span class="token operator">=</span>“text<span class="token operator">/</span>javascript” charset<span class="token operator">=</span>“utf<span class="token number">-8</span>”<span class="token operator">></span><span class="token operator">&lt;</span><span class="token operator">/</span>script<span class="token operator">></span>  <span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p><a href="https://www.cnblogs.com/coco1s/p/7197662.html" target="_blank" rel="noopener">https://www.cnblogs.com/coco1s/p/7197662.html</a>  纯 CSS 实现波浪效果！</p><p><a href="https://www.infoq.cn/article/0zOdhwKD1HqxAoFLoCY1" target="_blank" rel="noopener">https://www.infoq.cn/article/0zOdhwKD1HqxAoFLoCY1</a>  十个最流行的前端 CSS 库</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 随笔 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 随笔 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>移动端解决方案</title>
       <link href="/2019/01/07/yi-dong-duan-jie-jue-fang-an/"/>
       <url>/2019/01/07/yi-dong-duan-jie-jue-fang-an/</url>
       
-        <content type="html"><![CDATA[<h1 id="移动端解决方案"><a href="#移动端解决方案" class="headerlink" title="移动端解决方案"></a>移动端解决方案</h1><p>一、UIforETW 解决UI卡顿<br>二、移动端300ms click点击延迟  引入fastclick库（npm install fastclick –save）<br>6-5 reset.css 重置页面样式表（不同手机页面样式不统一）<br>border.css 1像素边框解决方案<br>三、 图片按比例加载</p><pre class="line-numbers language-css"><code class="language-css"><span class="token selector"><span class="token class">.wrapper</span></span><span class="token punctuation">{</span>    <span class="token property">overflow</span><span class="token punctuation">:</span> hidden    <span class="token property">width</span><span class="token punctuation">:</span> <span class="token number">100%</span>    <span class="token property">height</span><span class="token punctuation">:</span> <span class="token number">0</span>    <span class="token property">padding-bottom</span><span class="token punctuation">:</span> <span class="token number">30%</span><span class="token punctuation">}</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><p>四、滚动条 better-scoll</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="移动端解决方案"><a href="#移动端解决方案" class="headerlink" title="移动端解决方案"></a>移动端解决方案</h1><p>一、UIforETW 解决UI卡顿<br>二、移动端300ms click点击延迟  引入fastclick库（npm install fastclick –save）<br>6-5 reset.css 重置页面样式表（不同手机页面样式不统一）<br>border.css 1像素边框解决方案<br>三、 图片按比例加载</p><pre class="line-numbers language-css"><code class="language-css"><span class="token selector"><span class="token class">.wrapper</span></span><span class="token punctuation">{</span>    <span class="token property">overflow</span><span class="token punctuation">:</span> hidden    <span class="token property">width</span><span class="token punctuation">:</span> <span class="token number">100%</span>    <span class="token property">height</span><span class="token punctuation">:</span> <span class="token number">0</span>    <span class="token property">padding-bottom</span><span class="token punctuation">:</span> <span class="token number">30%</span><span class="token punctuation">}</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><p>四、滚动条 better-scoll<br>五、ios弹出键盘不自动关掉键盘，导致fixed位置错乱  windows.scrollTo(0,0)</p>]]></content>
       
       
       <categories>

@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://ztli.com/2020/03/07/vue/</loc>
+    
+    <lastmod>2020-03-10T01:05:33.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://ztli.com/2019/01/07/yi-dong-duan-jie-jue-fang-an/</loc>
+    
+    <lastmod>2020-03-06T00:35:10.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://ztli.com/2019/12/07/qian-duan-ling-sui-xiao-zhi-shi/</loc>
     
     <lastmod>2020-01-12T08:24:34.000Z</lastmod>
@@ -23,13 +37,6 @@
   </url>
   
   <url>
-    <loc>https://ztli.com/2019/01/07/yi-dong-duan-jie-jue-fang-an/</loc>
-    
-    <lastmod>2020-01-09T09:57:36.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://ztli.com/2019/12/07/css-js-te-xiao/</loc>
     
     <lastmod>2020-01-07T07:04:51.000Z</lastmod>
@@ -44,7 +51,14 @@
   </url>
   
   <url>
-    <loc>https://ztli.com/friends/index.html</loc>
+    <loc>https://ztli.com/tags/index.html</loc>
+    
+    <lastmod>2020-01-03T09:07:10.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://ztli.com/about/index.html</loc>
     
     <lastmod>2020-01-03T09:07:10.000Z</lastmod>
     
@@ -65,7 +79,7 @@
   </url>
   
   <url>
-    <loc>https://ztli.com/about/index.html</loc>
+    <loc>https://ztli.com/friends/index.html</loc>
     
     <lastmod>2020-01-03T09:07:10.000Z</lastmod>
     
@@ -73,13 +87,6 @@
   
   <url>
     <loc>https://ztli.com/contact/index.html</loc>
-    
-    <lastmod>2020-01-03T09:07:10.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://ztli.com/tags/index.html</loc>
     
     <lastmod>2020-01-03T09:07:10.000Z</lastmod>
     
